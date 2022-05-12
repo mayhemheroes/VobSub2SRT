@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-vobsub2srt
+target: vobsub2srt
+
+cmds:
+  - cmd: /repo/build/bin/vobsub2srt /test
+    filepath: /test.idx
