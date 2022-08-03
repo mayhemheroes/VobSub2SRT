@@ -2,4 +2,4 @@ project: vobsub2srt
 target: vobsub2srt
 
 cmds:
-  - cmd: /vobsub2srt /test
+  - cmd: /install/bin/vobsub2srt /test
