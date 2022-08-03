@@ -3,3 +3,4 @@ target: vobsub2srt
 
 cmds:
   - cmd: /install/bin/vobsub2srt /test
+    filepath: /test.idx
